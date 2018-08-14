@@ -20,7 +20,7 @@ title                    : "Introduction to Deep Learning"
 title_separator          : "-"
 name                     : "Naoaki Okazaki"
 description              : 'Course materials for the latter half of ART.T458: "Machine Learning"'
-url                      : "http://chokkan.github.io/deeplearning/"
+url                      : "https://chokkan.github.io/deeplearning/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chokkan/deeplearning"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
