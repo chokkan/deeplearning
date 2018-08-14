@@ -1,0 +1,7 @@
+main:
+  - title: "Course (OCW)"
+    url: http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201804845&lang=EN
+  - title: "Github"
+    url: https://github.com/chokkan/deeplearning
+  - title: "Okazaki Lab"
+    url: http://www.nlp.c.titech.ac.jp/
