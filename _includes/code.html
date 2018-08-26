@@ -1,0 +1,31 @@
+{% if include.tc1 %}
+{% capture inc1 %}{% include {{ include.tc1 }} %}{% endcapture %}
+<details open>
+<summary>{{ include.tt1 }}</summary>
+{{ inc1 | markdownify }}
+</details>
+{% endif %}
+
+{% if include.tc2 %}
+{% capture inc2 %}{% include {{ include.tc2 }} %}{% endcapture %}
+<details open>
+<summary>{{ include.tt2 }}</summary>
+{{ inc2 | markdownify }}
+</details>
+{% endif %}
+
+{% if include.tc3 %}
+{% capture inc3 %}{% include {{ include.tc3 }} %}{% endcapture %}
+<details open>
+<summary>{{ include.tt3 }}</summary>
+{{ inc3 | markdownify }}
+</details>
+{% endif %}
+
+{% if include.tc4 %}
+{% capture inc4 %}{% include {{ include.tc4 }} %}{% endcapture %}
+<details open>
+<summary>{{ include.tt4 }}</summary>
+{{ inc4 | markdownify }}
+</details>
+{% endif %}
