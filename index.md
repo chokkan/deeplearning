@@ -25,7 +25,7 @@ lecture1:
     image_path: /assets/images/binary-impl.png
     alt: "Implementations"
     excerpt: "Implementations in PyTorch, Chanier, TensorFlow, MXNet"    
-  - url: https://github.com/chokkan/deeplearning/blob/master/notebook/binary.ipynb
+  - url: https://colab.research.google.com/github/chokkan/deeplearning/blob/master/notebook/binary.ipynb
     image_path: /assets/images/pytorch.png
     alt: "Implementations in Jupyter notebook (Google Colaboratory)"
     excerpt: "The same implementations in Jupyter notebook (Google Colaboratory)"    
