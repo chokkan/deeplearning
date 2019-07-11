@@ -4,10 +4,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   cta_label: "Course (OCW)"
-  cta_url: "http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201804845&lang=EN"
+  cta_url: "http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342305&KeiCD=23&course=5&KougiCD=201904845&Nendo=2019&lang=EN&vid=03"
 excerpt: 'with flavor of Natural Language Processing (NLP)'
 intro: 
-  - excerpt: 'This site accompanies the latter half of the [ART.T458: Machine Learning](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201804845&lang=EN) course at [Tokyo Institute of Technology](https://www.titech.ac.jp/english/), which focuses on Deep Learning for Natural Language Processing (NLP). Course materials, demos, and implementations are available.'
+  - excerpt: 'This site accompanies the latter half of the [ART.T458: Machine Learning](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342305&KeiCD=23&course=5&KougiCD=201904845&Nendo=2019&lang=EN&vid=03) course at [Tokyo Institute of Technology](https://www.titech.ac.jp/english/), which focuses on Deep Learning for Natural Language Processing (NLP). Course materials, demos, and implementations are available.'
 lecture1:
   - url: https://speakerdeck.com/chokkan/feedforward-neural-network-i-binary-classification
     image_path: /assets/images/ffnn-binary.png
