@@ -182,7 +182,7 @@ function fnone(v)
 
 function fstep(v)
 {
-  return v < 0 ? 0 : 1;
+  return v <= 0 ? 0 : 1;
 }
 
 function fsigmoid(v)
