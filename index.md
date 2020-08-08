@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
-  teaser: /assets/images/intro-to-dl.png
+  og_image: /assets/images/intro-to-dl.png
   overlay_image: /assets/images/splash.png
 excerpt: 'with flavor of Natural Language Processing (NLP)'
 intro: 
