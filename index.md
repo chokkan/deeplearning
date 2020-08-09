@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/intro-to-dl.png
   overlay_image: /assets/images/splash.png
 excerpt: 'with flavor of Natural Language Processing (NLP)'
-description: "Lecture slides for Deep Neural Networks (FFNN, CNN, RNN, LSTM, GRU), Word Embeddings, and Encoder-Decoder Models (Attention, Transformer, GPT, BERT)."
+description: "Deep Neural Networks (FFNN, CNN, RNN, LSTM, GRU), Word Embeddings, Enc-Dec Models (Attention, Transformer, GPT, BERT)."
 intro: 
   - excerpt: 'This site accompanies the latter half of the [ART.T458: Advanced Machine Learning](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342305&KeiCD=23&course=5&KougiCD=202004845&Nendo=2020&lang=EN&vid=03) course at [Tokyo Institute of Technology](https://www.titech.ac.jp/english/), which focuses on Deep Learning for Natural Language Processing (NLP).'
 lecture1:
