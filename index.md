@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/intro-to-dl.png
   overlay_image: /assets/images/splash.png
 excerpt: 'with flavor of Natural Language Processing (NLP)'
-description: "Lecture slides for Deep Neural Networks, Word Embeddings, and Encoder Decoder Models."
+description: "Lecture slides for Feedforward Neural Networks, Deep Neural Networks (CNN, RNN, LSTM, GRU), Word Embeddings, and Encoder-Decoder Models (Attention Mechanism, Transformer, GPT, BERT)."
 intro: 
   - excerpt: 'This site accompanies the latter half of the [ART.T458: Advanced Machine Learning](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342305&KeiCD=23&course=5&KougiCD=202004845&Nendo=2020&lang=EN&vid=03) course at [Tokyo Institute of Technology](https://www.titech.ac.jp/english/), which focuses on Deep Learning for Natural Language Processing (NLP).'
 lecture1:
@@ -61,10 +61,12 @@ lecture4:
     image_path: /assets/images/word2vec_en.png
     alt: "Loading word vectors pre-trained on English newspapers; computing similarity; word analogy"
     excerpt: "Loading word vectors pre-trained on English news; computing similarity; word analogy"
+    title: "English Word Vector"
   - url: https://github.com/chokkan/deeplearning/blob/master/notebook/word2vec_ja.ipynb
     image_path: /assets/images/word2vec_ja.png
     alt: "Loading word vectors trained on Japanese Wikipedia; computing similarity; word analogy"
     excerpt: "Loading word vectors trained on Japanese Wikipedia; computing similarity; word analogy"
+    title: "Japanese Word Vector"
 lecture5:
   - title: "Slides"
     speakerdeck:
@@ -72,8 +74,9 @@ lecture5:
       ratio: 1.44428772919605
   - url: https://github.com/chokkan/deeplearning/blob/master/notebook/rnn.ipynb
     image_path: /assets/images/structure-impl.png
-    alt: "Implementation in Jupyter notebook (Google Colaboratory)"
-    excerpt: "Implementation in Jupyter notebook (Google Colaboratory)"
+    alt: "Implementations in Jupyter notebook"
+    title: "Implementations"
+    excerpt: "RNN; Mini-batch RNN"
 lecture6:
   - title: "Slides"
     speakerdeck:
